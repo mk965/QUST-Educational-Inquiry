@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="jiaowu">
+    <output-path>$PROJECT_DIR$/out/artifacts/jiaowu</output-path>
+    <root id="archive" name="jiaowu.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+    </root>
+  </artifact>
+</component>
